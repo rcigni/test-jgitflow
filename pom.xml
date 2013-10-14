@@ -8,6 +8,11 @@
   <name>test-jgitflow</name>
   <url>http://maven.apache.org</url>
 
+    <scm>
+        <connection>scm:git@github.com:rcigni/test-jgitflow.git</connection>
+        <tag>HEAD</tag>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
